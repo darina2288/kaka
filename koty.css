@@ -1,8 +1,11 @@
+.cat
+{
 width: 100%;
 
   position: absolute;
 
   margin-top: -50vh;
+}
   :root {
 
   --space-xs: 8px;
