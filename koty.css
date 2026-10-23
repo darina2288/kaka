@@ -18,7 +18,7 @@ width: 100%;
 
 
 
-  --noir: rgba(106,90,205, 0.82), transparent 50%;
+  --noir: #6a5acd; transparent 50%;
 
   --white: white;
 
@@ -26,7 +26,7 @@ width: 100%;
 
   --main: #6a5acd;
 
-  --additional: rgba(106,90,205);
+  --additional: #6a5acd;
 
 
 
@@ -748,7 +748,7 @@ html.visual body {
 
   background: var(--additional);
 
-  color: var(--noir);
+  color: var(--white);
 
 }
 .viz-after-cover p {
