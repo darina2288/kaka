@@ -38,7 +38,7 @@ for (let g = 0; g < groupCount; g++) {
 	const video = document.createElement("video");
 	video.crossOrigin = "anonymous";
 	video.src =
-		"https://raw.githubusercontent.com/275b293c27494a83812b0b7f73d0e5c8.webm/kaka/main/Particles.webm";
+		"https://raw.githubusercontent.com/darina2288/kaka/main/Particles.webm";
 	video.loop = true;
 	video.muted = true;
 	video.playbackRate = 0.010 + Math.random() * 1.0;
@@ -90,7 +90,7 @@ for (let g = 0; g < groupCount; g++) {
 }
 const hdrLoader = new HDRLoader();
 const hdrTexture = hdrLoader.load(
-	"https://raw.githubusercontent.com/HdrOutdoorSoccerFieldWinterDayClear001_HDR_2K.hdr/kaka/refs/heads/main/st_peters_square_night_2k.hdr",
+	"https://raw.githubusercontent.com/darina2288/kaka/refs/heads/main/st_peters_square_night_2k.hdr",
 	() => {
 		hdrTexture.mapping = THREE.EquirectangularReflectionMapping;
 		hdrTexture.colorSpace = THREE.SRGBColorSpace;
