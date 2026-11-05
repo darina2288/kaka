@@ -70,9 +70,7 @@ div#bg-3-1{
 
 	background:url('https://raw.githubusercontent.com/darina2288/kaka/refs/heads/main/mochi1.png');
 
-	width:529px;
-
-	height:757px;
+	background-size: contain;
 
 	top:-100px;
 
@@ -83,9 +81,7 @@ div#bg-3-2{
 
 	background:url('https://raw.githubusercontent.com/darina2288/kaka/refs/heads/main/icecream2.png');
 
-	width:603px;
-
-	height:583px;
+	background-size: contain;
 
 	top:1050px;
 
@@ -96,9 +92,7 @@ div#bg-3-3{
 
 	background:url('https://raw.githubusercontent.com/darina2288/kaka/refs/heads/main/tayaki.png');
 
-	width:846px;
-
-	height:713px;
+	background-size: contain;
 
 	top:1800px;
 
@@ -109,9 +103,7 @@ div#bg-3-4{
 
 	background:url('https://raw.githubusercontent.com/darina2288/kaka/refs/heads/main/mochi2.png');
 
-	width:1104px;
-
-	height:684px;
+	background-size: contain;
 
 	top:2800px;
 
@@ -123,6 +115,7 @@ div#parallax-bg-2 div{
 	background:url('https://raw.githubusercontent.com/darina2288/kaka/refs/heads/main/roll.png');
 
 	background-repeat:no-repeat;
+	background-size: contain;
 
 	position:absolute;
 
@@ -183,6 +176,7 @@ div#bg-2-6{
 
 }
 div#parallax-bg-1 div{
+	background-size: contain;
 
 	background-repeat:no-repeat;
 
