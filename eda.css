@@ -241,14 +241,14 @@ div#bg-1-4{
 
 div#bg-1-5{
 
-	background:url('https://github.com/darina2288/kaka/blob/main/tayaki.png');
+	background:url('https://raw.githubusercontent.com/darina2288/kaka/refs/heads/main/tayaki.png');
 
 	top:1200px;
 
 	left:-200px;
 
 }  
-object1 {
+.object1 {
 
   animation: object1 5s infinite;
 
@@ -268,7 +268,7 @@ object1 {
   }
 
 }
-object2 {
+.object2 {
 
   animation: object2 5s infinite;
 
@@ -288,7 +288,7 @@ object2 {
   }
 
 }
-object3 {
+.object3 {
 
   animation: object3 5s infinite;
 
