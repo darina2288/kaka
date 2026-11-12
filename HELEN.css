@@ -5,12 +5,12 @@ body {
   padding: 0;
 
   height: 4000px;
-
+overflow-x: hidden;
 }
 
 #container {
 
-  position: fixed;
+  position: absolute;
 
   top: 0;
 
