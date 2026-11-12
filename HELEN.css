@@ -4,13 +4,12 @@ body {
 
   padding: 0;
 
-  height: 4000px;
-overflow-x: hidden;
+  height: 400vh;
 }
 
 #container {
 
-  position: absolute;
+  position: fixed;
 
   top: 0;
 
@@ -63,7 +62,7 @@ background:url('https://raw.githubusercontent.com/darina2288/kaka/refs/heads/mai
 
   max-width: 400px;
 
-  color: LightCyan;
+  color: Violet;
 
 }
 
