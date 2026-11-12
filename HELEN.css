@@ -5,6 +5,7 @@ body {
   padding: 0;
 
   height: 400vh;
+  overflow-x: hidden;
 }
 
 #container {
