@@ -169,6 +169,7 @@ width: 100px;
 	transform: scale(0.98);
 
 }
+.textblock {
 font-size: 16px;
 
   color: white;
@@ -188,6 +189,7 @@ font-size: 16px;
   justify-content: center;
 
   align-items: center;
+}
   .container .card p {
 
   font-size: 15px;
