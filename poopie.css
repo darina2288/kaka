@@ -63,6 +63,7 @@ body {
   margin: 40px 30px;
 
   transition: 0.5s;
+  z-index: 1;
 
 }
 .container .box::before {
@@ -88,6 +89,7 @@ body {
   transform: skewX(15deg);
 
   transition: 0.5s;
+  z-index: -1;
 
 }
 .container .box::after {
@@ -297,12 +299,6 @@ body {
   }
 
 }
-
-
-
-10) Стили стеклянной поверхности модулей:
-
-
 
 .container .box .content {
 
